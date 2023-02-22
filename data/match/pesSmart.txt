@@ -141,8 +141,8 @@
 
 //isShouldTurnBeforePass -> angle//
 1		//custom	
-120.0	//max
-95.0	//min
+120.0	  180.0 //max
+95.0	  120.0 //min
 0		//padding
 
 //isShouldTurnBeforePass -> dist//
